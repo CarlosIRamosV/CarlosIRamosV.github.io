@@ -1,3 +1,1 @@
 # CarlosIRamosV Webpage
-
-## About
